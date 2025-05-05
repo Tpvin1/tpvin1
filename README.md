@@ -100,7 +100,7 @@ I am a technology professional with solid experience in electronics, circuit des
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 8px;" 
+    style="padding-right: 1px;" 
     src="https://github-readme-stats.vercel.app/api?username=Tpvin1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
   />
 
